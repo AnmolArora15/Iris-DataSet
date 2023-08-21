@@ -17,4 +17,6 @@ Exploratory Data Analysis
 Logistic Regression
 Decision Tree
 Random Forest
-                                                                                                **OPEN FOR SUGGESTIONS**
+
+**OPEN FOR SUGGESTIONS**
+                                                                                          
